@@ -55,6 +55,7 @@ log/
 logs/
 out/
 project/boot/
+project/.boot/
 project/build/target/
 project/plugins/lib_managed/
 project/plugins/project/build.properties

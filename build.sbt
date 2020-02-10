@@ -22,7 +22,7 @@ crossScalaVersions := Seq("2.12.8", "2.11.12")
 
 scalaVersion := crossScalaVersions.value.head
 
-sparkVersion := "2.4.2"
+sparkVersion := "2.4.4"
 
 libraryDependencies ++= Seq(
   // Adding test classifier seems to break transitive resolution of the core dependencies
